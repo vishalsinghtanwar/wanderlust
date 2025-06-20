@@ -47,8 +47,6 @@ nodemon app.js
 
 👨‍💻 Author
 💼 Vishal Singh Tanwar
-
-
 ---
 
  Future Enhancements
